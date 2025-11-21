@@ -1,0 +1,17 @@
+body { font-family: Arial, sans-serif; padding: 20px; }
+section {
+    border: 1px solid #ddd;
+    padding: 14px;
+    margin-bottom: 16px;
+    border-radius: 8px;
+}
+.oscuro { background: #222; color: white; }
+.mensaje { color: red; margin-top: 10px; display:none; }
+button { padding: 7px 12px; margin-top: 8px; cursor: pointer; }
+.contador-display {
+    display:inline-block;
+    min-width:40px;
+    text-align:center;
+    font-size:1.3rem;
+    font-weight:bold;
+}
